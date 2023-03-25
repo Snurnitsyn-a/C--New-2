@@ -1,0 +1,15 @@
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\bin\Debug\net6.0\Lecture_1_Hello_User.exe
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\bin\Debug\net6.0\Lecture_1_Hello_User.deps.json
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\bin\Debug\net6.0\Lecture_1_Hello_User.runtimeconfig.json
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\bin\Debug\net6.0\Lecture_1_Hello_User.dll
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\bin\Debug\net6.0\Lecture_1_Hello_User.pdb
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.csproj.AssemblyReference.cache
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.AssemblyInfoInputs.cache
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.AssemblyInfo.cs
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.csproj.CoreCompileInputs.cache
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.dll
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\refint\Lecture_1_Hello_User.dll
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.pdb
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\Lecture_1_Hello_User.genruntimeconfig.cache
+C:\Users\sheno\Desktop\C# New 2\Lecture_1_Hello_User\obj\Debug\net6.0\ref\Lecture_1_Hello_User.dll
