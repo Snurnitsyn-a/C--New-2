@@ -14,5 +14,4 @@ if (c > a & c > a)
 {
     Max = c;
 }
-Console.Write("max = ");
-Console.Write(Max);
+Console.Write("max = " + Max);
