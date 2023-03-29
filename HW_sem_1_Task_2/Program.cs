@@ -17,9 +17,7 @@ else
 {
     Min = b;
 }    
-Console.Write("max = ");
-Console.WriteLine(Max);
-Console.Write("min = ");
-Console.Write(Min);
+Console.WriteLine("max = " + Max);
+Console.WriteLine("min = " + Min);
 
 
