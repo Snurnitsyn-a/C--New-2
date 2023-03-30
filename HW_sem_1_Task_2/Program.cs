@@ -12,12 +12,11 @@ int Min = a;
 if (b > a)
 {
     Max = b;
-    Min = a;
 }
 else
 {
     Min = b;
-}    
+}
 Console.WriteLine("max = " + Max);
 Console.WriteLine("min = " + Min);
 
