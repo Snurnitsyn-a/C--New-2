@@ -1,0 +1,15 @@
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.csproj.AssemblyReference.cache
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.AssemblyInfoInputs.cache
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.AssemblyInfo.cs
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.csproj.CoreCompileInputs.cache
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\bin\Debug\net6.0\HW_sem_2_Task_15.exe
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\bin\Debug\net6.0\HW_sem_2_Task_15.deps.json
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\bin\Debug\net6.0\HW_sem_2_Task_15.runtimeconfig.json
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\bin\Debug\net6.0\HW_sem_2_Task_15.dll
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\bin\Debug\net6.0\HW_sem_2_Task_15.pdb
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.dll
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\refint\HW_sem_2_Task_15.dll
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.pdb
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\HW_sem_2_Task_15.genruntimeconfig.cache
+C:\Users\sheno\Desktop\C# New 2\HW_sem_2_Task_15\obj\Debug\net6.0\ref\HW_sem_2_Task_15.dll
